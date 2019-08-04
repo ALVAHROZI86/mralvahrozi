@@ -22,8 +22,8 @@ figlet ASW | lolcat
 
 echo "_____________________________________________________________"
 echo "Tools    : Kumpulan ASW Tools $white                         " |lolcat
-echo "Creadby  : Mr.yM $white                                      " |lolcat
-echo "Contact  : 0852xxxxxxxx   $white                             " |lolcat
+echo "Creadby  : Mr.ALVAHROZI                                     " |lolcat
+echo "Contact  : 089505649048  $white                             " |lolcat
 echo "_____________________________________________________________"
 
 ###################################################
